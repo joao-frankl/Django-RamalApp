@@ -12,7 +12,7 @@
 
 Ter instalado Python3 e pip e Instalar o requirements do projeto.
 
-```
+```ps1
 
     pip install -r requirements.txt
 
@@ -20,7 +20,7 @@ Ter instalado Python3 e pip e Instalar o requirements do projeto.
 
 Apos, rodar os comandos para criar o banco de dados.
 
-```
+```ps1
 
     python manage.py makemigrations
     python manage.py migrate
@@ -29,7 +29,7 @@ Apos, rodar os comandos para criar o banco de dados.
 
 Com o banco de dados criado crie o super usuário para administração do django. O mesmo irá pedir nome de usuário, senha e e-mail.
 
-```
+```ps1
 
     python manage.py createsuperuser
 
@@ -37,7 +37,7 @@ Com o banco de dados criado crie o super usuário para administração do django
 
 Com o super usuário criado basta rodar o projeto.
 
-```
+```ps1
 
     python manage.py runserver
 
