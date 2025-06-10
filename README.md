@@ -2,12 +2,6 @@
 
 É um projeto simples desenvolvido numa necessidade de obter as informações sobre Empresas, ramais, emails e colaboradores e tendo um CRUD no sistema após o login.
 
-#### **Tela de visualização:**
-![VISUALIZAÇÃO](https://i.imgur.com/CGRuFxT.png "VISUALIZAÇÃO")
-
-#### **Tela de edição:**
-![EDIÇÃO](https://i.imgur.com/N1wi7HX.png "EDIÇÃO")
-
 ### Pré-requisitos
 
 Ter instalado Python3 e pip e Instalar o requirements do projeto.
